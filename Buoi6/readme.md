@@ -21,7 +21,7 @@ run this:
 
 <h2> lenh cho he thong </h2>
 
-Enable System Supervisor: sudo systemctl enable supervisor
-Update Supervisor: sudo supervisorctl update
-Restart Supervisor: sudo service supervisor restart
-Check: sudo supervisorctl
+<p>Enable System Supervisor: sudo systemctl enable supervisor</p> 
+<p>Update Supervisor: sudo supervisorctl update</p>
+<p>Restart Supervisor: sudo service supervisor restart</p>
+<p>Check: sudo supervisorctl </p>
