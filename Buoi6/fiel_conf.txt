@@ -1,0 +1,9 @@
+
+[program: getdata]
+command=/home/pi/Desktop/buoi6/
+autostart=true
+autorestart=true
+startsecs=60
+stderr_logfile=/home/pi/Desktop/buoi6/log/getdate_error.log
+stdout_logfile=/home/pi/Desktop/buoi6/log/get_data_logfile.log
+
