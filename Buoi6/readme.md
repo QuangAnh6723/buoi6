@@ -32,3 +32,6 @@ run this:
 <p>Update Supervisor: sudo supervisorctl update</p>
 <p>Restart Supervisor: sudo service supervisor restart</p>
 <p>Check: sudo supervisorctl </p>
+
+
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.x 1
