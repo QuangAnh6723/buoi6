@@ -13,3 +13,15 @@ python3 --version
 
 <h2>cai dat supervisor<h2>
 sudo apt-get install supervisor
+
+<h2> run node-red auto </h2>
+run this:
+        enable:  sudo systemctl enable nodered.service
+        disable: sudo systemctl disable nodered.service
+
+<h2> lenh cho he thong </h2>
+
+Enable System Supervisor: sudo systemctl enable supervisor
+Update Supervisor: sudo supervisorctl update
+Restart Supervisor: sudo service supervisor restart
+Check: sudo supervisorctl
