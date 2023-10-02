@@ -12,7 +12,10 @@ sudo apt-get update
 python3 --version
 
 <h2>cai dat supervisor<h2>
-sudo apt-get install supervisor
+        <p>
+             sudo apt-get install supervisor   
+        </p>
+
 
 <h2> run node-red auto </h2>
 run this:
