@@ -18,6 +18,10 @@ python3 --version
 
 
 <h2> run node-red auto </h2>
+<p>
+        cai node red :
+        bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)
+</p>
 run this:
         enable:  sudo systemctl enable nodered.service
         disable: sudo systemctl disable nodered.service
